@@ -1,0 +1,7 @@
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:19 Test Case test_login_QAbrains_TC01 Started
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:20 Opening browser & navigating to QABrain Website 
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:30 Reading Email for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:32 Reading Password for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:34 Entering Email for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:36 Entering Password for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:38 Clicking Login Button for row = 2

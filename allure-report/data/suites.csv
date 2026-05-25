@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 25 19:53:31 IST 2026","Mon May 25 19:53:56 IST 2026","24732","testcases","Login_QABrains_DDT_Excel_test","Test_Login_QABrains","","","test_login_QAbrains_TC01",""

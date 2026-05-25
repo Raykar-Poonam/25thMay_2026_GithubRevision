@@ -1,0 +1,62 @@
+ 2026-05-25 19:42:09,159 : 19 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Test Case test_login_QAbrains_TC01 Started 
+ 2026-05-25 19:42:09,160 : 20 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Opening browser & navigating to QABrain Website  
+ 2026-05-25 19:42:10,356 : 30 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Email for row = 2 
+ 2026-05-25 19:42:10,367 : 32 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Password for row = 2 
+ 2026-05-25 19:42:10,375 : 34 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Email for row = 2 
+ 2026-05-25 19:42:10,640 : 36 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Password for row = 2 
+ 2026-05-25 19:42:10,732 : 38 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Clicking Login Button for row = 2 
+ 2026-05-25 19:49:12,821 : 19 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Test Case test_login_QAbrains_TC01 Started 
+ 2026-05-25 19:49:12,823 : 20 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Opening browser & navigating to QABrain Website  
+ 2026-05-25 19:49:14,891 : 30 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Email for row = 2 
+ 2026-05-25 19:49:14,896 : 32 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Password for row = 2 
+ 2026-05-25 19:49:14,900 : 34 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Email for row = 2 
+ 2026-05-25 19:49:15,293 : 36 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Password for row = 2 
+ 2026-05-25 19:49:15,379 : 38 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Clicking Login Button for row = 2 
+ 2026-05-25 19:53:31,326 : 19 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Test Case test_login_QAbrains_TC01 Started 
+ 2026-05-25 19:53:31,327 : 20 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Opening browser & navigating to QABrain Website  
+ 2026-05-25 19:53:33,551 : 30 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Email for row = 2 
+ 2026-05-25 19:53:33,554 : 32 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Password for row = 2 
+ 2026-05-25 19:53:33,558 : 34 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Email for row = 2 
+ 2026-05-25 19:53:33,936 : 36 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Password for row = 2 
+ 2026-05-25 19:53:34,042 : 38 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Clicking Login Button for row = 2 
+ 2026-05-25 19:53:34,107 : 40 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Validating Login Status for row = 2 
+ 2026-05-25 19:53:36,542 : 46 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Expected Result & Actual Result both are Pass for row = 2 
+ 2026-05-25 19:53:36,542 : 48 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Updated TestCase_Status_List as ['PASS'] 
+ 2026-05-25 19:53:36,543 : 49 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Updating Actual Result value as Pass in testCase_data.XLSX Excel File for row = 2 
+ 2026-05-25 19:53:36,880 : 53 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Taking Screenshot for row = 2 
+ 2026-05-25 19:53:36,946 : 56 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Taking Allure Screenshot for row = 2 
+ 2026-05-25 19:53:37,573 : 30 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Email for row = 3 
+ 2026-05-25 19:53:38,274 : 32 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Password for row = 3 
+ 2026-05-25 19:53:38,298 : 34 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Email for row = 3 
+ 2026-05-25 19:53:38,455 : 36 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Password for row = 3 
+ 2026-05-25 19:53:38,667 : 38 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Clicking Login Button for row = 3 
+ 2026-05-25 19:53:38,741 : 40 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Validating Login Status for row = 3 
+ 2026-05-25 19:53:43,786 : 61 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Expected Result & Actual Result both are Fail for row = 3 
+ 2026-05-25 19:53:43,786 : 63 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Updated TestCase_Status_List as ['PASS', 'PASS'] for row = 3 
+ 2026-05-25 19:53:43,786 : 64 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Updating Actual Result value as Fail in testCase_data.XLSX Excel File for row = 3 
+ 2026-05-25 19:53:43,820 : 68 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Taking Screenshot for row = 3 
+ 2026-05-25 19:53:43,872 : 71 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Taking Allure Screenshot for row = 3 
+ 2026-05-25 19:53:44,400 : 30 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Email for row = 4 
+ 2026-05-25 19:53:44,417 : 32 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Password for row = 4 
+ 2026-05-25 19:53:44,423 : 34 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Email for row = 4 
+ 2026-05-25 19:53:44,564 : 36 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Password for row = 4 
+ 2026-05-25 19:53:44,647 : 38 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Clicking Login Button for row = 4 
+ 2026-05-25 19:53:44,683 : 40 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Validating Login Status for row = 4 
+ 2026-05-25 19:53:49,737 : 61 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Expected Result & Actual Result both are Fail for row = 4 
+ 2026-05-25 19:53:49,738 : 63 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Updated TestCase_Status_List as ['PASS', 'PASS', 'PASS'] for row = 4 
+ 2026-05-25 19:53:49,738 : 64 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Updating Actual Result value as Fail in testCase_data.XLSX Excel File for row = 4 
+ 2026-05-25 19:53:49,762 : 68 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Taking Screenshot for row = 4 
+ 2026-05-25 19:53:49,843 : 71 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Taking Allure Screenshot for row = 4 
+ 2026-05-25 19:53:50,418 : 30 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Email for row = 5 
+ 2026-05-25 19:53:50,437 : 32 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Reading Password for row = 5 
+ 2026-05-25 19:53:50,443 : 34 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Email for row = 5 
+ 2026-05-25 19:53:50,775 : 36 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Entering Password for row = 5 
+ 2026-05-25 19:53:50,840 : 38 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Clicking Login Button for row = 5 
+ 2026-05-25 19:53:50,880 : 40 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Validating Login Status for row = 5 
+ 2026-05-25 19:53:55,917 : 61 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Expected Result & Actual Result both are Fail for row = 5 
+ 2026-05-25 19:53:55,917 : 63 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Updated TestCase_Status_List as ['PASS', 'PASS', 'PASS', 'PASS'] for row = 5 
+ 2026-05-25 19:53:55,917 : 64 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Updating Actual Result value as Fail in testCase_data.XLSX Excel File for row = 5 
+ 2026-05-25 19:53:55,942 : 68 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Taking Screenshot for row = 5 
+ 2026-05-25 19:53:56,008 : 71 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Taking Allure Screenshot for row = 5 
+ 2026-05-25 19:53:56,057 : 92 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : TestCase_Status_List --> ['PASS', 'PASS', 'PASS', 'PASS'] 
+ 2026-05-25 19:53:56,058 : 93 : INFO : test_login_QAbrains_TC01 : Test_Login_QABrains : Test Case test_login_QAbrains_TC01 is Completed  

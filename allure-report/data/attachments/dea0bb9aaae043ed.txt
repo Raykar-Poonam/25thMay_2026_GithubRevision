@@ -1,0 +1,48 @@
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:19 Test Case test_login_QAbrains_TC01 Started
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:20 Opening browser & navigating to QABrain Website 
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:30 Reading Email for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:32 Reading Password for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:34 Entering Email for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:36 Entering Password for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:38 Clicking Login Button for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:40 Validating Login Status for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:46 Expected Result & Actual Result both are Pass for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:48 Updated TestCase_Status_List as ['PASS']
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:49 Updating Actual Result value as Pass in testCase_data.XLSX Excel File for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:53 Taking Screenshot for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:56 Taking Allure Screenshot for row = 2
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:30 Reading Email for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:32 Reading Password for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:34 Entering Email for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:36 Entering Password for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:38 Clicking Login Button for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:40 Validating Login Status for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:61 Expected Result & Actual Result both are Fail for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:63 Updated TestCase_Status_List as ['PASS', 'PASS'] for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:64 Updating Actual Result value as Fail in testCase_data.XLSX Excel File for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:68 Taking Screenshot for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:71 Taking Allure Screenshot for row = 3
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:30 Reading Email for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:32 Reading Password for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:34 Entering Email for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:36 Entering Password for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:38 Clicking Login Button for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:40 Validating Login Status for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:61 Expected Result & Actual Result both are Fail for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:63 Updated TestCase_Status_List as ['PASS', 'PASS', 'PASS'] for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:64 Updating Actual Result value as Fail in testCase_data.XLSX Excel File for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:68 Taking Screenshot for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:71 Taking Allure Screenshot for row = 4
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:30 Reading Email for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:32 Reading Password for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:34 Entering Email for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:36 Entering Password for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:38 Clicking Login Button for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:40 Validating Login Status for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:61 Expected Result & Actual Result both are Fail for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:63 Updated TestCase_Status_List as ['PASS', 'PASS', 'PASS', 'PASS'] for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:64 Updating Actual Result value as Fail in testCase_data.XLSX Excel File for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:68 Taking Screenshot for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:71 Taking Allure Screenshot for row = 5
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:92 TestCase_Status_List --> ['PASS', 'PASS', 'PASS', 'PASS']
+INFO     Test_Login_QABrains:Login_QABrains_DDT_Excel_test.py:93 Test Case test_login_QAbrains_TC01 is Completed
