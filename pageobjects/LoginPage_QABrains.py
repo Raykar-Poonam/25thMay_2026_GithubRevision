@@ -29,11 +29,12 @@ class LoginPage:
     def Validate_LoginStatus(self):
 
         try:
-            self.driver.find_element(By.XPATH, self.Validate_LoginStatus_XPATH)
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located((By.XPATH, self.Validate_LoginStatus_XPATH)))
+            # self.driver.find_element(By.XPATH, self.Validate_LoginStatus_XPATH)
             return "Pass"
         except:
             return "Fail"
-
 
     # def Click_LoginButton(self):
     #
